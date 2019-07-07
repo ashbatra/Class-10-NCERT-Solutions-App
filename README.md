@@ -50,5 +50,10 @@ dependencies {
     implementation 'com.google.android.libraries.places:places:1.1.0'
 }
  ```
+ 
+Click on Sync Now on Top Right corner to include the above dependencies in your Project.
+
 ---
-## fndkbvhefbe
+## Acknowledgements
+* ExtraClass.com
+* Github Barteksc Library
