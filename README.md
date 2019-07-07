@@ -56,4 +56,4 @@ Click on Sync Now on Top Right corner to include the above dependencies in your 
 ---
 ## Acknowledgements
 * ExtraClass.com
-* Github Barteksc Library
+* Github Barteksc Library for PDFViewer
