@@ -32,6 +32,11 @@ The Activity supports a back button to go back to the previous activity. The Lay
 #### PdfActivity
 ![ss4](https://user-images.githubusercontent.com/44803205/60765219-45603080-a0b4-11e9-9a3f-02e24bca5b1a.jpg)&nbsp;&nbsp;
 
+The Activity supports a back button to go back to the previous activity. The Layout file of PdfActivity has a PdfViewer covering match_parent x match_parent. The .java file of the Activity uses a function to load pdf files saved in assets folder of the project. The activity imports a github library implemented in build.gradle(Module:app) file of project.
+
+---
+
+## Gradle Changes
 
 
 
