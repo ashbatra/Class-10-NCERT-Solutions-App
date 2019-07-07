@@ -1,4 +1,4 @@
-# Class-10-NCERT-Solutions-App  
+# Class 10 NCERT Solutions App  
 #### The project is an implementation of Grid Layout in MainActivity and varoius lists in corresponding Activities of the NCERT Books and Chapters in them. The project also uses .json file to extract the marketing banners above the MainActivity and BooksActivity. The Navigation bar of MainActivity implements dialog box to get Rating for the app, using a RatingBar. The project is a simple content viewing application for viewing pdfs and does that with help of a github directory.
 
 ---
@@ -17,14 +17,10 @@ All the bug reports can be sent to ashish.extraclass@gmail.com
 The Activity supports a Navigation Drawer Menu having options of Sharing the app and Rating it in a dialog box with RatingBar in its Layout file. The Layout file of MainActivity has a ViewPager for Slider Banner above the GridLayout which has CardView for each subject.
 
 
-
-
 #### BooksActivity
 ![ss2](https://user-images.githubusercontent.com/44803205/60764903-80139a00-a0af-11e9-921e-ccddfae894e1.jpg)&nbsp;&nbsp;
 
-The Activity supports a Navigation Drawer Menu having options of Sharing the app and Rating it in a dialog box with RatingBar in its Layout file. The Layout file of MainActivity has a ViewPager for Slider Banner above the GridLayout which has CardView for each subject.
-
-
+The Activity supports a back button to go back to the previous activity. The Layout file of MainActivity has a ViewPager for Slider Banner above the GridView which picks up the data for each subject's books from the BooksAdapter.java file of Models folder. The adapter uses a format of book from java class book also present in Models folder.
 
 
 #### ChapterActivity
