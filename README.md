@@ -39,5 +39,15 @@ The Activity supports a back button to go back to the previous activity. The Lay
 ## Gradle Changes
 Include the following library implementations for opening pdf and for opening banners in activities from .json file.
 
-```dhfbdksbrkjv```
+```
+dependencies {
+    ...
+    
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+    implementation 'com.github.barteksc:android-pdf-viewer:2.8.2'
+    implementation 'com.google.code.gson:gson:2.8.2'
+    implementation 'com.google.android.gms:play-services-auth:16.0.1'
+    implementation 'com.google.android.libraries.places:places:1.1.0'
+}
+ ```
 
