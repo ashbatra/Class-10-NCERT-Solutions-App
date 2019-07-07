@@ -37,6 +37,8 @@ The Activity supports a back button to go back to the previous activity. The Lay
 ---
 
 ## Gradle Changes
+Include the following library implementations for opening pdf and for opening banners in activities from .json file.
 
+' dajfdag '
 
 
