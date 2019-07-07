@@ -3,8 +3,9 @@
 ---
 ## Author and Contributors List
 
-#### Ashish Batra  
-#### All the bug reports can be sent to ashish.extraclass@gmail.com
+### Ashish Batra  
+
+All the bug reports can be sent to ashish.extraclass@gmail.com
 
 ---
 
