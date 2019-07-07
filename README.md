@@ -6,7 +6,7 @@
 
 ### Ashish Batra  
 
-All the bug reports can be sent to ashish.extraclass@gmail.com
+*All the bug reports can be sent to ashish.extraclass@gmail.com*
 
 ---
 
@@ -20,12 +20,16 @@ The Activity supports a Navigation Drawer Menu having options of Sharing the app
 #### BooksActivity
 ![ss2](https://user-images.githubusercontent.com/44803205/60764903-80139a00-a0af-11e9-921e-ccddfae894e1.jpg)&nbsp;&nbsp;
 
-The Activity supports a back button to go back to the previous activity. The Layout file of MainActivity has a ViewPager for Slider Banner above the GridView which picks up the data for each subject's books from the BooksAdapter.java file of Models folder. The adapter uses a format of book from java class book also present in Models folder.
+The Activity supports a back button to go back to the previous activity. The Layout file of BooksActivity has a ViewPager for Slider Banner above the GridView which picks up the data for each subject's books from the BooksAdapter.java file of Models folder. The adapter uses a format of book from java class book also present in Models folder.
 
 
 #### ChapterActivity
 ![ss3](https://user-images.githubusercontent.com/44803205/60765202-0fbb4780-a0b4-11e9-8b7e-3227bfa4025b.jpg)&nbsp;&nbsp;
 
+The Activity supports a back button to go back to the previous activity. The Layout file of ChapterActivity has a ViewPager for Slider Banner above the ListView which picks up the data for each subject's books from the ChapterAdapter.java file of Models folder. The adapter uses a format of chapter from java class book also present in Models folder. The list items have a layout specified in layout folder by list_item_layout.
+
+
+#### PdfActivity
 ![ss4](https://user-images.githubusercontent.com/44803205/60765219-45603080-a0b4-11e9-9a3f-02e24bca5b1a.jpg)&nbsp;&nbsp;
 
 
