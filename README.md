@@ -11,10 +11,26 @@ All the bug reports can be sent to ashish.extraclass@gmail.com
 ---
 
 ## ScreenShots of the Project application
+#### MainActivity
+![ss1](https://user-images.githubusercontent.com/44803205/60764882-2ca14c00-a0af-11e9-9ac3-4bcbae497607.jpg)&nbsp;&nbsp;
 
-![ss1](https://user-images.githubusercontent.com/44803205/60764882-2ca14c00-a0af-11e9-9ac3-4bcbae497607.jpg)&nbsp;&nbsp;&nbsp;&nbsp;
-![ss2](https://user-images.githubusercontent.com/44803205/60764903-80139a00-a0af-11e9-921e-ccddfae894e1.jpg)&nbsp;&nbsp;&nbsp;&nbsp;
-![ss3](https://user-images.githubusercontent.com/44803205/60765202-0fbb4780-a0b4-11e9-8b7e-3227bfa4025b.jpg)&nbsp;&nbsp;&nbsp;&nbsp;
+The Activity supports a Navigation Drawer Menu having options of Sharing the app and Rating it in a dialog box with RatingBar in its Layout file. The Layout file of MainActivity has a ViewPager for Slider Banner above the GridLayout which has CardView for each subject.
+
+
+
+
+#### BooksActivity
+![ss2](https://user-images.githubusercontent.com/44803205/60764903-80139a00-a0af-11e9-921e-ccddfae894e1.jpg)&nbsp;&nbsp;
+
+The Activity supports a Navigation Drawer Menu having options of Sharing the app and Rating it in a dialog box with RatingBar in its Layout file. The Layout file of MainActivity has a ViewPager for Slider Banner above the GridLayout which has CardView for each subject.
+
+
+
+
+#### ChapterActivity
+![ss3](https://user-images.githubusercontent.com/44803205/60765202-0fbb4780-a0b4-11e9-8b7e-3227bfa4025b.jpg)&nbsp;&nbsp;
+
+![ss4](https://user-images.githubusercontent.com/44803205/60765219-45603080-a0b4-11e9-9a3f-02e24bca5b1a.jpg)&nbsp;&nbsp;
 
 
 
