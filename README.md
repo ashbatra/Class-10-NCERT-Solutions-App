@@ -1,5 +1,5 @@
 # Class-10-NCERT-Solutions-App
-#### An Android project to view all NCERT Solutions of class X in an app implementing List Views, Grid Layout and Card Views.
+##### An Android project to view all NCERT Solutions of class X in an app implementing List Views, Grid Layout and Card Views.
 ---
 ## Author and Contributors List
 
